@@ -6,6 +6,6 @@ package LabGit;
 public class GitClass {
     @Override
     public String toString() {
-        return "GitClass{}";
+        return "GitClass{error}";
     }
 }
