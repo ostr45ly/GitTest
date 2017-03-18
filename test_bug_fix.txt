@@ -1,2 +1,3 @@
-insert  test_bug_fix.txt
+insert  git add test_bug_fix.txt
 insert merge
+
