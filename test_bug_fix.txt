@@ -1,1 +1,1 @@
-insert  test_bug_fix.txt
+insert _ test_bug_fix.txt
